@@ -112,6 +112,3 @@ We appreciate your contributions and are excited to see what you will improve!
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This `README.md` provides a comprehensive overview of the project, explains its usefulness for JSON data type serialization in Redis, and outlines steps for contributing. It includes installation instructions, usage examples, and details about the benefits and contribution process.
